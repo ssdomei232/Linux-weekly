@@ -7,4 +7,4 @@
 
 ## 往期内容
 
-#1 Redis开源协议变更,微软开源Garnet替代
+[#1 Redis开源协议变更,微软开源Garnet替代](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/01/2024-1.md)
