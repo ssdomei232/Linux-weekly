@@ -7,6 +7,7 @@
 
 ## 往期内容
 
+[知名NAS系统暗藏后门,官方表示不予修复](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-5.md)   
 [#4 腾讯云全球性故障 74 分钟](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-4.md)   
 [#3 OpenAI 宣布用户无需注册账号即可使用 ChatGPT，但有部分限制](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-3.md)   
 [#2024愚人节特刊 清华大学开源软件镜像站推出四种颜色风格](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/Fool.md)    
