@@ -1,4 +1,4 @@
-# Linux周刊
+# Linuxcat周刊
 继Linux中国后,提供不那么及时的Linux,开源,软件,科技相关的新闻摘要   
 不定时发布   
 
@@ -6,6 +6,7 @@
 
 
 ## 往期内容
+[#7 美西两个月后只能绕路而行](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-7.md)   
 [#6 打爆云账单，只需要S3桶名](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-6.md)   
 [#5 知名NAS系统暗藏后门,官方表示不予修复](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-5.md)     
 [#4 腾讯云全球性故障 74 分钟](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-4.md)   
