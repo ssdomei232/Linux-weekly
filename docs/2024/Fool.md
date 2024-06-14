@@ -3,7 +3,7 @@ title: 清华大学开源软件镜像站推出四种颜色风格
 tags: 
 - 愚人节
 categories: 
-- Linux周刊
+- Linuxcat周刊
 permalink: /2024-fool/index.html
 date: 2024-4-1 12:00:00
 ---
