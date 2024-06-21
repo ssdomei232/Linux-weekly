@@ -6,6 +6,7 @@
 
 
 ## 往期内容
+[#8 在中国访问 Docker 遭中国政府制裁](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-8.md)     
 [#7 美西两个月后只能绕路而行](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-7.md)   
 [#6 打爆云账单，只需要S3桶名](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-6.md)   
 [#5 知名NAS系统暗藏后门,官方表示不予修复](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-5.md)     
