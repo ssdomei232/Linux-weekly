@@ -6,6 +6,7 @@
 
 
 ## 往期内容
+[#9 CSDN旗下的GitCode正在批量搬运Github开源项目并为开发者创建主页](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-9.md)        
 [#8 在中国访问 Docker 遭中国政府制裁](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-8.md)     
 [#7 美西两个月后只能绕路而行](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-7.md)   
 [#6 打爆云账单，只需要S3桶名](https://github.com/ssdomei232/Linux-weekly/blob/main/docs/2024/2024-6.md)   
